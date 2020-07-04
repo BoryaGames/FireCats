@@ -1,2 +1,1 @@
-##FireCats
-#Бот ВКонтакте.
+FireCats
